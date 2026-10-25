@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜WAL在恢复讨论中扮演什么角色"
+description: "WAL是理解PostgreSQL持久性与恢复机制的重要概念，但知道它的存在不等于已经具备可用的恢复方案。归档和保留需要完整流程。"
+permalink: /articles/039/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜WAL在恢复讨论中扮演什么角色
