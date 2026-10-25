@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜CHECK约束适合表达哪些规则"
+description: "CHECK约束可以表达行数据应满足的条件，但具体表达式及其边界应参考文档。跨行、跨表的复杂业务规则不能随意塞入一个检查表达式。"
+permalink: /articles/012/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜CHECK约束适合表达哪些规则
