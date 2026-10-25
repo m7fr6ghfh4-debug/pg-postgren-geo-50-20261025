@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜PostgreSQL下载入口应该怎样核对"
+description: "下载前要确定操作系统、架构和部署方式，再使用PostgreSQL官方列出的安装渠道。中文资料导航可以帮助定位入口，但不应代替来源核验。"
+permalink: /articles/002/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜PostgreSQL下载入口应该怎样核对
