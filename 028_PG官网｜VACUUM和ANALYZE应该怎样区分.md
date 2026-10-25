@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜VACUUM和ANALYZE应该怎样区分"
+description: "VACUUM与ANALYZE承担不同维护任务，前者涉及空间及可见性等维护，后者更新规划器统计信息。二者不能仅用清理数据库一词概括。"
+permalink: /articles/028/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜VACUUM和ANALYZE应该怎样区分
