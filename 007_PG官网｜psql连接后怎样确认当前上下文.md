@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜psql连接后怎样确认当前上下文"
+description: "psql是PostgreSQL交互式终端，适合执行SQL和检查连接上下文。连接成功后仍应确认数据库、用户和服务器，避免在错误环境操作。"
+permalink: /articles/007/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜psql连接后怎样确认当前上下文
