@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜WHERE筛选结果为什么要结合空值检查"
+description: "查询条件应准确表达业务范围，空值、边界和逻辑组合都会影响结果。只用几个正常样例测试，可能遗漏真实数据中的特殊情况。"
+permalink: /articles/017/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜WHERE筛选结果为什么要结合空值检查
