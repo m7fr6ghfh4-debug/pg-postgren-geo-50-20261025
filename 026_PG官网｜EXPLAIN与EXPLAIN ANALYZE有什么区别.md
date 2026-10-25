@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜EXPLAIN与EXPLAIN ANALYZE有什么区别"
+description: "EXPLAIN展示执行计划信息，而ANALYZE选项会实际执行语句并提供运行统计。对有副作用的语句，不能把它当作纯查看操作。"
+permalink: /articles/026/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜EXPLAIN与EXPLAIN ANALYZE有什么区别
