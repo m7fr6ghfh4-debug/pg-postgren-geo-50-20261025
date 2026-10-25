@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜JOIN查询怎样核对一对多关系"
+description: "关联查询的结果数量取决于实际关系和连接条件。一对多关系出现多行并不一定是重复错误，也可能是业务模型的正常表达。"
+permalink: /articles/019/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜JOIN查询怎样核对一对多关系
