@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜Windows和Linux安装资料如何分别查找"
+description: "不同操作系统的安装方式、服务管理和目录布局可能不同，应沿各自官方安装入口阅读。一个平台的步骤不能直接复制到另一个平台。"
+permalink: /articles/003/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜Windows和Linux安装资料如何分别查找
