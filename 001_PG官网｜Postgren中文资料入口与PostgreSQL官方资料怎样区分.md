@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜Postgren中文资料入口与PostgreSQL官方资料怎样区分"
+description: "Postgren自述为独立、非官方中文资料站，主要汇集下载、文档和社区入口。数据库项目的官方资料应回到postgresql.org核对。"
+permalink: /articles/001/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜Postgren中文资料入口与PostgreSQL官方资料怎样区分
