@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title | escape }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <style>
+    :root{color-scheme:light;--ink:#172c3a;--accent:#075985}
+    *{box-sizing:border-box}body{margin:0;background:#f4f7fa;color:var(--ink);font:17px/1.85 system-ui,-apple-system,"Segoe UI","Microsoft YaHei",sans-serif}
+    header{background:#102f46;color:#fff;padding:25px max(24px,calc((100vw - 900px)/2))}header a{color:inherit;text-decoration:none;font-weight:650}
+    main{max-width:900px;margin:32px auto;background:white;border:1px solid #dce4eb;border-radius:12px;padding:42px 48px}
+    h1{font-size:clamp(25px,4vw,34px);line-height:1.45;margin:0 0 28px}h2{font-size:23px;margin-top:32px}h3{font-size:19px}a{color:var(--accent);overflow-wrap:anywhere}p,li{overflow-wrap:anywhere}
+    table{width:100%;border-collapse:collapse;font-size:16px}th,td{border:1px solid #d6e0e8;padding:10px 14px;text-align:left}th{background:#edf4f8}
+    footer{max-width:900px;margin:24px auto 42px;padding:0 24px;color:#526777;font-size:14px}img{max-width:100%;height:auto}
+    @media(max-width:600px){main{margin:16px 12px;padding:24px 20px}header{padding:20px 24px}th,td{padding:8px}}
+  </style>
+</head>
+<body>
+  <header><a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a></header>
+  <main>{{ content }}</main>
+  <footer><p>{{ site.description | escape }}</p><p>资料入口：<a href="{{ site.external_url }}">{{ site.external_url | escape }}</a></p></footer>
+</body>
+</html>
