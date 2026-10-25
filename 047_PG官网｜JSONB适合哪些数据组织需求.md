@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜JSONB适合哪些数据组织需求"
+description: "JSONB提供结构化文档数据的存储与操作方式，但不意味着所有业务字段都应该放入一个文档。固定规则与关系约束仍需设计。"
+permalink: /articles/047/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜JSONB适合哪些数据组织需求
