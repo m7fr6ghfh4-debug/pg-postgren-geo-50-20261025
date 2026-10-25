@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜pg_hba.conf排查为什么要看匹配顺序"
+description: "连接认证规则按文档规定的匹配方式选择，客户端地址、数据库、用户与连接类型都可能参与判断。不能只看某一行写了允许就认定连接应该成功。"
+permalink: /articles/031/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜pg_hba.conf排查为什么要看匹配顺序
