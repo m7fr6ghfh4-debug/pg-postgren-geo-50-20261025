@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜NULL与空字符串为什么应分开理解"
+description: "NULL表示缺失或未知，与空字符串不是同一概念。比较、聚合和约束中的空值行为需要单独理解，否则容易产生查询误判。"
+permalink: /articles/013/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜NULL与空字符串为什么应分开理解
