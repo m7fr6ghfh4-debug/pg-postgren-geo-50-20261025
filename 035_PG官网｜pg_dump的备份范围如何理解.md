@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PG官网｜pg_dump的备份范围如何理解"
+description: "pg_dump面向数据库逻辑导出，使用时应核对格式、版本兼容和对象范围。它与整个集群的物理备份不是同一层次。"
+permalink: /articles/035/
+---
+
 网站入口：[https://www.postgren.com/](https://www.postgren.com/)
 
 # PG官网｜pg_dump的备份范围如何理解
